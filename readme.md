@@ -1,0 +1,1 @@
+1. talosctl gen config "proxmox-cluster" "https://kube.proxmox.cornpoplabs.com:6443"
